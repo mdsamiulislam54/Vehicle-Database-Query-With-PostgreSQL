@@ -2,6 +2,13 @@
 
 This document explains the purpose and usage of the SQL queries used in the **Vehicle Booking System**. Each query is written for PostgreSQL and demonstrates common real-world database operations such as joins, filtering, grouping, and subqueries.
 
+[Vehicle Booking Diagram](https://lucid.app/lucidchart/8151041c-3088-4774-9401-9fea7128cc05/edit?viewport_loc=-1610%2C-648%2C3644%2C1695%2C0_0&invitationId=inv_601827ab-0f24-4d93-85e2-a57befe33d31)
+
+
+
+
+![database Schema](./erd.png)
+
 ---
 
 ## 📌 Query 1: Booking Details with Customer and Vehicle Info
