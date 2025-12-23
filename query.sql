@@ -27,3 +27,13 @@ where
       v.vehicle_id = b.vehicle_id
   )
 
+
+-- Query 3
+
+select
+  *
+from
+  vehicle as v
+where
+  v.status = 'available'
+  and v.type = 'car'
